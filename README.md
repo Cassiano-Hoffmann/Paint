@@ -16,10 +16,10 @@ Clone este repositório em seu ambiente de desenvolvimento local.
 
 bash
 Copy code
-git clone https://github.com/seu-username/paint-html5.git
+git clone https://github.com/Cassiano-Hoffmann/Paint.git
 Abra o arquivo index.html em seu navegador.
 
-Comece a pintar! Use as opções de pincel, cores e outras ferramentas disponíveis.
+Comece a pintar! Use o tamanho do pincel, cores e outras ferramentas disponíveis.
 
 Contribuição
 Se você quiser contribuir para o desenvolvimento deste projeto, por favor:
@@ -29,11 +29,6 @@ Crie um branch para a sua feature: git checkout -b feature-nova.
 Faça commit das suas alterações: git commit -m 'Adiciona nova feature'.
 Faça push para o branch: git push origin feature-nova.
 Abra um pull request.
-Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para mais detalhes.
-
-Autor
-[Seu Nome]
 
 Agradecimentos
 Agradecemos a todos que contribuíram para o desenvolvimento deste projeto.
